@@ -1,0 +1,36 @@
+ #sect {
+     margin: auto !important;
+     text-align: center !important;
+ }
+ 
+ #calcu {
+     margin: auto;
+     text-align: center;
+ }
+ 
+ .center {
+     margin: auto;
+     text-align: center;
+ }
+ 
+ .table td {
+     margin: auto;
+     text-align: center;
+     background-color: #494b49;
+     border-color: #101010;
+     font-size: 180%;
+     height: 70px;
+     width: 70px;
+     color: #fff;
+     border-radius: 15px;
+ }
+ 
+ .table td:hover {
+     background-color: #060606;
+     color: #fff;
+     font-weight: bold;
+ }
+ 
+ #ac:hover {
+     background-color: red;
+ }
