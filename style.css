@@ -1,36 +1,31 @@
- #sect {
-     margin: auto !important;
-     text-align: center !important;
- }
- 
- #calcu {
-     margin: auto;
-     text-align: center;
- }
- 
- .center {
-     margin: auto;
-     text-align: center;
- }
- 
- .table td {
-     margin: auto;
-     text-align: center;
-     background-color: #494b49;
-     border-color: #101010;
-     font-size: 180%;
-     height: 70px;
-     width: 70px;
-     color: #fff;
-     border-radius: 15px;
- }
- 
- .table td:hover {
-     background-color: #060606;
-     color: #fff;
-     font-weight: bold;
- }
- 
- #ac:hover {
-     background-color: red;
- }
+#calculator {
+    text-align: center !important;
+}
+
+.center {
+    margin: auto;
+    text-align: center;
+    width: 25%;
+}
+
+.table td {
+    margin: auto;
+    text-align: center;
+    background-color: #395B64;
+    border-color: #E7F6F2;
+    font-size: 180%;
+    height: 70px;
+    width: 70px;
+    color: #A5C9CA;
+    border-radius: 15px;
+}
+
+.table td:hover {
+    background-color: #A5BECC;
+    color: #fff;
+    font-weight: bold;
+}
+
+#ac:hover {
+    background-color: #A5BECC;
+}
